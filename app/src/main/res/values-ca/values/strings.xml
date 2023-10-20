@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Fan Controller</string>
+    <string name="ip_address_label">Dirección IP del controlador</string>
+</resources>
